@@ -1,0 +1,2 @@
+python3 main.py --hiddenSize 512 --rnnLayers 2 --maxSteps 50 --attSize 512 --dropOut 0.8 --batchSize 200 --vocabSize -1 --elmo --testModel --loadModel
+
