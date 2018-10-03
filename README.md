@@ -7,7 +7,8 @@
     4. nltk (for word tokenization)
     5. tqdm (for progress bar)
 
-## Usage: python3 main.py [commandline options]
+## Usage
+	python3 main.py [commandline options]
        (see details of the commandline options at models/predict.py)
 
 ## To train the model for the best setting:
